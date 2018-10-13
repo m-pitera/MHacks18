@@ -47,14 +47,6 @@
             }
         },
         {
-            "Key": "0e863d12-68e5-4856-9be9-43e03e5bcbe3",
-            "Value": {
-                "id": "e05950c8-a74b-4de4-a522-1cab1a7c6a94",
-                "resourcePath": "objects\\oj_player\\oj_player.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "103796e9-948d-4ff8-b9ea-7feb328fbfb2",
             "Value": {
                 "id": "3c9fed60-1aca-4c80-a790-00c98e6fa323",
@@ -87,10 +79,50 @@
             }
         },
         {
+            "Key": "233c4db0-6740-4726-bb83-4cc68ea77a38",
+            "Value": {
+                "id": "98f32879-4920-47fd-804f-1b22abdfe5b0",
+                "resourcePath": "sprites\\spt_fire_projectile\\spt_fire_projectile.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "3bcb99f2-382a-49b6-8ba2-5fff9810c88e",
+            "Value": {
+                "id": "0ef27550-85a8-481a-b4b7-46bb542e4cf8",
+                "resourcePath": "objects\\obj_player\\obj_player.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "4ea0a766-195c-4fb5-a219-b8e49b879ab6",
+            "Value": {
+                "id": "c43c29d2-287a-4556-9d01-a2793fe0fe4c",
+                "resourcePath": "sprites\\spr_ice_lance_ability\\spr_ice_lance_ability.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "5895d5ff-5d6a-40c5-bf20-71c06c51f01e",
+            "Value": {
+                "id": "b8326e2e-1ed6-45f8-b8ad-53c6d0a2eb9b",
+                "resourcePath": "sprites\\spt_corrupted_maincharacter_chase\\spt_corrupted_maincharacter_chase.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5d3409ce-93da-479a-bf6b-f9d2ebc93c4e",
             "Value": {
                 "id": "bdec42a0-bf2b-4962-9e9a-4917d3efc796",
                 "resourcePath": "sprites\\spr_enemy_type1_sample\\spr_enemy_type1_sample.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "5e2c3a13-4b7d-4d6d-b0a7-2539cab4a36d",
+            "Value": {
+                "id": "da337fc0-0cac-4153-bc67-5458ad508300",
+                "resourcePath": "sprites\\spr_trevor_enemy_type1_sample\\spr_trevor_enemy_type1_sample.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -116,6 +148,22 @@
                 "id": "ca4fbeed-f5df-4ec4-b05a-da6b6c72fef7",
                 "resourcePath": "sprites\\spr_corrupted_maincharacter\\spr_corrupted_maincharacter.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "7548e1c2-6405-474a-bdc7-5386419f3349",
+            "Value": {
+                "id": "3dac6571-3949-4c3d-9ed9-4ffc545f756f",
+                "resourcePath": "sprites\\spr_swipe_ability\\spr_swipe_ability.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8776ee24-fe99-4495-b6e8-abdccb27734a",
+            "Value": {
+                "id": "6edd9f7a-f682-473b-91ab-badbc96cab26",
+                "resourcePath": "objects\\obj_fire_projectile\\obj_fire_projectile.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -148,6 +196,14 @@
                 "id": "13802d6c-6599-4087-bc2f-850166a46661",
                 "resourcePath": "rooms\\rm_test_room\\rm_test_room.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "afb0d601-ac2e-418d-9e23-a65b072992b3",
+            "Value": {
+                "id": "5d6846b9-56bf-44d8-8a9e-f2d563353ac7",
+                "resourcePath": "objects\\obj_enemy1\\obj_enemy1.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -220,6 +276,14 @@
                 "id": "18372303-ea06-444b-8c41-3573716003a9",
                 "resourcePath": "views\\e2c6aec4-d0de-45f6-8a6f-8df771566fff.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e522ee79-b67c-44a0-87b9-d848c69def61",
+            "Value": {
+                "id": "c322e608-782f-4e2a-a093-2383e7933d60",
+                "resourcePath": "objects\\obj_swipe_ability\\obj_swipe_ability.yy",
+                "resourceType": "GMObject"
             }
         },
         {
