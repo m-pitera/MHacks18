@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "0e863d12-68e5-4856-9be9-43e03e5bcbe3",
+            "Value": {
+                "id": "e05950c8-a74b-4de4-a522-1cab1a7c6a94",
+                "resourcePath": "objects\\oj_player\\oj_player.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "103796e9-948d-4ff8-b9ea-7feb328fbfb2",
             "Value": {
                 "id": "3c9fed60-1aca-4c80-a790-00c98e6fa323",
@@ -183,6 +191,14 @@
             }
         },
         {
+            "Key": "9c23fa04-8da4-41fd-a274-95bd71144d00",
+            "Value": {
+                "id": "ac43bd46-5233-4cba-8ec7-0666f9aa2e40",
+                "resourcePath": "scripts\\scr_input\\scr_input.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "a34f24f0-35a4-46bc-8479-5277736b1641",
             "Value": {
                 "id": "66f4b355-8f8f-4bd2-94b7-f23238f379fc",
@@ -204,6 +220,14 @@
                 "id": "7894ba9e-b50a-4b6f-ba9a-b41755c1386d",
                 "resourcePath": "sprites\\spr_tile_bricks_dark\\spr_tile_bricks_dark.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a52e4a38-9b6b-4275-8ad5-64aebf97962b",
+            "Value": {
+                "id": "13802d6c-6599-4087-bc2f-850166a46661",
+                "resourcePath": "rooms\\rm_test_room\\rm_test_room.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -236,14 +260,6 @@
                 "id": "b3cb69b9-5668-486e-936c-acb1ee53c90c",
                 "resourcePath": "views\\c0db7c4c-cecf-475b-8d5d-f8f4bce2c82a.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "c18be7c3-0e4e-4f31-ad7c-8dcaeaf25138",
-            "Value": {
-                "id": "aeb642b4-7c91-4a08-ad6d-eba89b543346",
-                "resourcePath": "rooms\\room0\\room0.yy",
-                "resourceType": "GMRoom"
             }
         },
         {
@@ -320,7 +336,7 @@
         }
     ],
     "script_order": [
-        
+        "9c23fa04-8da4-41fd-a274-95bd71144d00"
     ],
     "tutorial": ""
 }
