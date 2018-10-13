@@ -1,5 +1,9 @@
 /// @description Insert description here
 // You can write your code in this editor
+x = obj_player.x;
+y = obj_player.y;
 
-enemy_hp = 15;
-enemy_spd = max(6, random(9));
+if image_index = 10
+{
+    instance_destroy();
+}

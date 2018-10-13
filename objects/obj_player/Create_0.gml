@@ -11,3 +11,6 @@ vspd = 0;
 player_xscale = 1; 
 
 player_hp = 10;
+
+cooldown_lmb = 0;
+cooldown_q = 0;

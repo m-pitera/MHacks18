@@ -20,16 +20,21 @@ if (player_hp <= 0)
 	game_restart();
 }
 
-if (mouse_check_button(mb_left))
+if (mouse_check_button(mb_left)) && cooldown_lmb < 0
 {
 	//3rd param is layer of map (can replace instances layer with extra 
 	//bullet layer allowing for the bullets to appear above enemies **
 	instance_create_layer(x, y, "instances", obj_fire_projectile);
+	cooldown_lmb = 30;
 }
+cooldown_lmb = cooldown_lmb-1;
 
-if (keyboard_check(ord("Q")))
+
+if (keyboard_check(ord("Q")) && cooldown_q < 0)
 {
 	//3rd param is layer of map (can replace instances layer with extra 
 	//bullet layer allowing for the bullets to appear above enemies **
 	instance_create_layer(x, y, "instances", obj_swipe_ability);
+	cooldown_q = 90;
 }
+cooldown_q = cooldown_q-1;
