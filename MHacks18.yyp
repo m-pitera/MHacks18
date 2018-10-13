@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "23745933-dca3-4190-813d-8d3c9722906c",
+            "Value": {
+                "id": "a45e337b-b950-4027-98b5-f0f342d72360",
+                "resourcePath": "sprites\\spr_tile_bricks_light\\spr_tile_bricks_light.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5d3409ce-93da-479a-bf6b-f9d2ebc93c4e",
             "Value": {
                 "id": "bdec42a0-bf2b-4962-9e9a-4917d3efc796",
@@ -123,6 +131,14 @@
             "Value": {
                 "id": "66f4b355-8f8f-4bd2-94b7-f23238f379fc",
                 "resourcePath": "sprites\\spr_condition_type_1_sample\\spr_condition_type_1_sample.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ade7fe25-4c6a-4d34-b68e-e83aac95c04d",
+            "Value": {
+                "id": "7894ba9e-b50a-4b6f-ba9a-b41755c1386d",
+                "resourcePath": "sprites\\spr_tile_bricks_dark\\spr_tile_bricks_dark.yy",
                 "resourceType": "GMSprite"
             }
         },
