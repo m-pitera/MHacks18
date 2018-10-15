@@ -298,7 +298,7 @@
             "Key": "3c34c596-44b5-4ac6-97df-4231c7ebaf77",
             "Value": {
                 "id": "105a5194-0f0a-40fb-a960-4ba53bec0d37",
-                "resourcePath": "rooms\\boss3\\boss3.yy",
+                "resourcePath": "rooms\\rm_test_room_boss3\\rm_test_room_boss3.yy",
                 "resourceType": "GMRoom"
             }
         },

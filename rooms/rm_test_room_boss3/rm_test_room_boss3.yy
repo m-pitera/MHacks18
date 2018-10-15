@@ -1,6 +1,6 @@
 
 {
-    "name": "boss3",
+    "name": "rm_test_room_boss3",
     "id": "3c34c596-44b5-4ac6-97df-4231c7ebaf77",
     "creationCodeFile": "",
     "inheritCode": false,
